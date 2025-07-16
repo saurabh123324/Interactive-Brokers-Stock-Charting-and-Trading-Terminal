@@ -327,3 +327,9 @@ if __name__ == '__main__':
     
     chart.show(block=True)
     
+    
+    
+    
+    
+# working
+    
